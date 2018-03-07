@@ -1,4 +1,4 @@
-# Course-Data-Structures
+# Course-Algorithm-Implementations
 
 - __Project 1:__ Tet AutoComplete (De la Briandais Trie and R-Way Trie)
 
