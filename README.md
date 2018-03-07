@@ -1,6 +1,6 @@
 # Course-Algorithm-Implementations
 
-- __Project 1:__ Tet AutoComplete (De la Briandais Trie and R-Way Trie)
+- __Project 1:__ Text Auto-Complete (De la Briandais Trie and R-Way Trie)
 
 - __Project 2:__ LZW Compression (variable width codewords)
 
