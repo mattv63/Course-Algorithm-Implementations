@@ -1,0 +1,87 @@
+Unmodified LZW			Original			Compressed			Ratio
+------------------------------------------------------------------------
+all.tar				2.89mb		/		1.76mb		=		1.64		
+assig2.doc			85kb		/		72.8kb		=		1.17
+bmps.tar			1.05mb		/		903kb		=		1.16
+code.txt			70.6kb		/		30.2kb		=		2.34
+code2.txt			56.3kb		/		23.5kb		=		2.4
+edit.exe			230kb		/		244kb		=		0.94
+frosty.jpg			123kb		/		173kb		=		0.71
+gone_fishing.jpg		16.9kb		/		9.06kb		=		1.87
+large.txt			831kb		/		410kb		=		2.03
+Lego-big.gif			91.1kb		/		125kb		=		0.73
+medium.txt			24.8kb		/		12.8kb		=		1.94
+texts.tar			1.31mb		/		988kb		=		1.33
+wacky.bmps			900kb		/		4.20kb		=		214.29
+winnt256.bmp			153kb		/		155kb		=		0.99
+
+Nothing Mode			Original			Compressed			Ratio
+------------------------------------------------------------------------
+all.tar				2.89mb		/		1.7mb		=		1.7		
+assig2.doc			85kb		/		39.1kb		=		2.17
+bmps.tar			1.05mb		/		79kb		=		13.26
+code.txt			70.6kb		/		23.9kb		=		2.95
+code2.txt			56.3kb		/		20kb		=		2.82
+edit.exe			230kb		/		152kb		=		1.51
+frosty.jpg			123kb		/		159kb		=		0.77
+gone_fishing.jpg		16.9kb		/		8.75kb		=		1.93
+large.txt			831kb		/		342kb		=		2.43
+Lego-big.gif			91.1kb		/		119kb		=		0.77
+medium.txt			24.8kb		/		12.2kb		=		2.03
+texts.tar			1.31mb		/		583kb		=		2.25
+wacky.bmps			900kb		/		3.85kb		=		233.77
+winnt256.bmp			153kb		/		61.4kb		=		2.49
+
+
+Reset Mode			Original			Compressed			Ratio
+-----------------------------------------------------------------------
+all.tar				2.89mb		/		1.12mb		=		2.58
+assig2.doc			85kb		/		39.1kb		=		2.17
+bmps.tar			1.05mb		/		79kb 		=		13.26
+code.txt			70.6kb		/		23.9kb		=		2.95
+code2.txt			56.3kb		/		20kb		=		2.82
+edit.exe			230kb		/		148kb		=		1.55
+frosty.jpg			123kb		/		167kb		=		0.74
+gone_fishing.jpg		16.9kb		/		8.75kb		=		1.93
+large.txt			831kb		/		355kb		=		2.34
+Lego-big.gif			91.1kb		/		119kb		=		0.77
+medium.txt			24.8kb		/		12.2kb		=		2.03
+texts.tar			1.31mb		/		576kb		=		2.27
+wacky.bmps			900kb		/		3.85kb		=		233.77
+winnt256.bmp			153kb		/		61.4kb		=		2.49
+
+
+Monitor Mode			Original			Compressed			Ratio
+----------------------------------------------------------------------
+all.tar				2.89mb		/		3.02mb		=		0.96
+assig2.doc			85kb		/		39.1kb		=		2.17
+bmps.tar			1.05mb		/		79kb		=		13.26
+code.txt			70.6kb		/		23.9kb		=		2.95
+code2.txt			56.3kb		/		20kb		=		2.82
+edit.exe			230kb		/		152kb		=		1.51
+frosty.jpg			123kb		/		159kb		=		0.77
+gone_fishing.jpg		16.9kb		/		8.75kb		=		1.93
+large.txt			831kb		/		342kb		=		2.42
+Lego-big.gif			91.1kb		/		119kb		=		0.77
+medium.txt			24.8kb		/		12.2kb		=		2.03
+texts.tar			1.31mb		/		583kb		=		2.25
+wacky.bmps			900kb		/		3.85kb		=		233.77
+winnt256.bmp			153kb		/		61.4kb		=		2.49
+
+
+Winzip				Original			Compressed			Ratio
+----------------------------------------------------------------------
+all.tar				2.89mb		/		809kb		=		3.57
+assig2.doc			85kb		/		20.2kb		=		4.21
+bmps.tar			1.05mb		/		52.8kb		=		19.89
+code.txt			70.6kb		/		13.7kb		=		5.15
+code2.txt			56.3kb		/		12kb		=		4.69
+edit.exe			230kb		/		96kb		=		2.4
+frosty.jpg			123kb		/		123kb		=		1
+gone_fishing.jpg		16.9kb		/		7.97kb		=		2.12
+large.txt			831kb		/		277kb		=		3
+Lego-big.gif			91.1kb		/		90.2kb		=		1.01
+medium.txt			24.8kb		/		10.1kb		=		2.46
+texts.tar			1.31mb		/		426kb		=		3.08
+wacky.bmps			900kb		/		2.10kb		=		428.57
+winnt256.bmp			153kb		/		42.8kb		=		3.57

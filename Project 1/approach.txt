@@ -1,0 +1,6 @@
+We were assigned with picking our own data structure to hold string entries that would accumulate over a long period of time. I decided to go with
+an Rway trie. As far as storing strings goes, we know that tries are always the answer. I decided to choose the one that prefers speed over everything
+else. Rway tries have a practically have a constant speed, outperforming the DLB in searching. The alphabet we are using is also not that large. We are
+not accounting for all ASCII characters in this program, just all capital and lowercase along with an apostrophe. Space is the one area where Rway tries
+can stumble, but modern phones using this algorithm are not going to complain over a few empty spaces in an array. This structure will last a long time
+in the user's phone. Over time the empty spaces will become filled as the user enters more words.
